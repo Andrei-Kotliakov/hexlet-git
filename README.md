@@ -1,1 +1,1 @@
-Hello, Hexlet!
+No cod No pain
